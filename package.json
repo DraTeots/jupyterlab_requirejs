@@ -32,9 +32,6 @@
   },
   "dependencies": {
     "@jupyterlab/application": "^2.0.2",
-    "@jupyterlab/apputils": "^2.0.2",
-    "@jupyterlab/coreutils": "^4.0.2",
-    "@jupyterlab/fileeditor": "^2.0.2",
     "requirejs": "2.3.6",
     "@types/requirejs": "^2.1.31"
   },
