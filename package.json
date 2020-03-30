@@ -1,7 +1,7 @@
 {
   "name": "jupyterlab_requirejs",
-  "version": "0.1.0",
-  "description": "A jupyterLab extension that adds requirejs to jupyt",
+  "version": "0.2.0",
+  "description": "A jupyterLab extension that adds requirejs to jupyter",
   "keywords": [
     "jupyter",
     "jupyterlab",
@@ -31,13 +31,13 @@
     "watch": "tsc -w"
   },
   "dependencies": {
-    "@jupyterlab/application": "^1.0.0",
-    "requirejs":"2.3.6",
-    "@types/requirejs":"^2.1.31"
+    "@jupyterlab/application": "^2.0.2",
+    "requirejs": "2.3.6",
+    "@types/requirejs": "^2.1.31"
   },
   "devDependencies": {
     "rimraf": "^2.6.1",
-    "typescript": "~3.5.2"
+    "typescript": "~3.8.3"
   },
   "sideEffects": [
     "style/*.css"
